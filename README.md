@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @andripriyandi
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Andri Priyandi
+- 👀 I’m Fullstack Developer
 
 <!---
 andripriyandi/andripriyandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
