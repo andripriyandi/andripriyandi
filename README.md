@@ -4,5 +4,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andripriyandi alt=andripriyandi /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=andripriyandi&show_icons=true&include_all_commits=true)](https://github.com/andripriyandi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andripriyandi&layout=compact)](https://github.com/andripriyandi/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andripriyandi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=andripriyandi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Andri Priyandi GitHub Stats" />
