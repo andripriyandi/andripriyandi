@@ -1,6 +1,7 @@
 ## Hey 👋, This is Andri Priyandi
 [![Gmail Badge](https://img.shields.io/badge/-andripriyandi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andripriyandi@gmail.com)](mailto:andripriyandi@gmail.com) 
-<h2>Welcome to my little house</h2> <p align='left'>Fullstack Developer</p>
+<h2>Welcome to my little house</h2> 
+<p align='left'>Mobile Developer</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=andripriyandi alt=andripriyandi /> </p>
 
